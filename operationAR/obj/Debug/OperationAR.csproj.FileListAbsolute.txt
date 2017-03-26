@@ -1,0 +1,16 @@
+d:\app\OperationAR\OperationAR\bin\Debug\OperationAR.exe.config
+d:\app\OperationAR\OperationAR\bin\Debug\OperationAR.exe
+d:\app\OperationAR\OperationAR\bin\Debug\OperationAR.pdb
+d:\app\OperationAR\OperationAR\obj\Debug\OperationAR.Form1.resources
+d:\app\OperationAR\OperationAR\obj\Debug\OperationAR.Properties.Resources.resources
+d:\app\OperationAR\OperationAR\obj\Debug\OperationAR.csproj.GenerateResource.Cache
+d:\app\OperationAR\OperationAR\obj\Debug\OperationAR.exe
+d:\app\OperationAR\OperationAR\obj\Debug\OperationAR.pdb
+C:\app\OperationAR\OperationAR\bin\Debug\OperationAR.exe.config
+C:\app\OperationAR\OperationAR\obj\Debug\OperationAR.exe
+C:\app\OperationAR\OperationAR\obj\Debug\OperationAR.pdb
+C:\app\OperationAR\OperationAR\bin\Debug\OperationAR.exe
+C:\app\OperationAR\OperationAR\bin\Debug\OperationAR.pdb
+C:\app\OperationAR\OperationAR\obj\Debug\OperationAR.Form1.resources
+C:\app\OperationAR\OperationAR\obj\Debug\OperationAR.Properties.Resources.resources
+C:\app\OperationAR\OperationAR\obj\Debug\OperationAR.csproj.GenerateResource.Cache
