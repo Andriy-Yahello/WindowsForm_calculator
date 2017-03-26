@@ -85,7 +85,7 @@
             this.radioButton2.Size = new System.Drawing.Size(71, 17);
             this.radioButton2.TabIndex = 8;
             this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Involution";
+            this.radioButton2.Text = "Power";
             this.radioButton2.UseVisualStyleBackColor = true;
             this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
